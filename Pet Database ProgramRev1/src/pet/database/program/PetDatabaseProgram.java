@@ -84,7 +84,7 @@ public class PetDatabaseProgram {
                                 
                                 if("done".equals(pet)){
                                     addPets = false;
-                                    System.out.println(petAgeList.size() +" pets added");
+                                    System.out.println((x+1) +" pets added");
                                     break;
                                 }
                                 int petAge = Integer.parseInt(petAgeResponse[1]);
