@@ -62,7 +62,7 @@ public class PetDatabaseProgram {
                                x++;
                         }
                             System.out.println("+----------------------+");
-                    
+                            System.out.println(petAgeList.size() + "rows in set");
                                                 
                                
                        
